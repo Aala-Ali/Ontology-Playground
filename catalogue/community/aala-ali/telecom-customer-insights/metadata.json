@@ -1,18 +1,16 @@
 {
-"name": "Understanding Telecom Customers Through Ontology",
-"description": "This ontology models how telecom companies understand customer behavior, usage patterns, churn risk, offers, campaigns, and revenue relationships to support customer-centric decision making and AI-driven insights.",
-"icon": "📶",
-"category": "general",
-"tags": [
-"telecom",
-"customer-behavior",
-"offers",
-"campaigns",
-"churn-risk",
-"revenue",
-"ontology",
-"fabric-iq",
-"knowledge-graph"
-],
-"author": "Alaa Ali"
+  "name": "Telecom Customer Insights",
+  "description": "Models telecom customer behavior, usage patterns, churn risk, offers, campaigns, devices, and revenue relationships.",
+  "icon": "📶",
+  "category": "general",
+  "tags": [
+    "telecom",
+    "customer-behavior",
+    "offers",
+    "campaigns",
+    "churn-risk",
+    "revenue",
+    "knowledge-graph"
+  ],
+  "author": "aala-ali"
 }
